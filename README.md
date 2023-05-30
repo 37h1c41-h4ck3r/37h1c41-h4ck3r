@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>[My Ethical Hacking Home Lab](https://github.com/37h1c41-h4ck3r/portfolio)</b>
+- <b>[My Ethical Hacking Home Lab](https://github.com/37h1c41-h4ck3r/home-lab)</b>
 - <b>[Hello World!](https://github.com/37h1c41-h4ck3r/portfolio)</b>
   
 <h2>📜 Certifications</h2>
